@@ -69,12 +69,3 @@ Kubelet → CRI-Containerd → Containers
 Feel free to use and adapt this diagram and notes — add a license file to the repo if you want a specific license (MIT/Apache/etc.). If you want, I can add an MIT license file for you.
 
 ---
-
-## Want more?
-
-If you'd like, I can:
-- Convert the diagram into a cleaner PNG/SVG with a simplified filename (`k8s-cri-diagram.png`) and update this README.
-- Add speaker notes or slides for a short presentation.
-- Create a smaller image and a LinkedIn-friendly graphic sized for social posts.
-
----
