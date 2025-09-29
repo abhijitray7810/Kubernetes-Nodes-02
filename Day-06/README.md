@@ -1,6 +1,3 @@
-I'll create a comprehensive README.md file for Kubernetes CSI (Container Storage Interface) with style nodes and diagrams. Let me search for the latest information about CSI standards and best practices.
-Now let me create a comprehensive README.md file for Kubernetes CSI with style nodes and diagrams. Here's the complete file:
-
 # 💾 Kubernetes Container Storage Interface (CSI)
 
 <div align="center">
