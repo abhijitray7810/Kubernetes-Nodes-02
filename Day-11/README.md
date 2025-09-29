@@ -1,4 +1,3 @@
-```markdown
 # 🚀 kubectl Cheat-Sheet in 60s
 
 ## 🔥 One-Liners
