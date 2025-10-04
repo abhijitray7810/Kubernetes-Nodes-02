@@ -29,7 +29,7 @@ graph LR
 
 ## 📄 Minimal Ingress (nginx-ingress controller assumed)
 ```yaml
-apiVersion: networking.k8s.io/v1
+apiVersion: networking.k8s.io/v1 
 kind: Ingress
 metadata:
   name: nginx-ingress
