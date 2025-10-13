@@ -3,6 +3,7 @@
 ## Overview
 
 This guide explains the persistent storage architecture in Kubernetes, illustrating how data persists beyond the lifecycle of individual pods and containers.
+![image](https://github.com/abhijitray7810/Kubernetes-Notes-02/blob/49cfcb2faa1d022a0078fc17d6494623a3733eff/Persistent%20Storage%20for%20Kubernetes/Screenshot%202025-10-14%20005214.png)
 
 ## Storage Types in Kubernetes
 
