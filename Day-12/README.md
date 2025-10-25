@@ -1,4 +1,4 @@
-# 🏁 Kubernetes ReplicaSet – “Pit-Crew for Pods”  
+ # 🏁 Kubernetes ReplicaSet – “Pit-Crew for Pods”  
 *(Fast, visual, copy-paste ready)*
 
 ```markdown
